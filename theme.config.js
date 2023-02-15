@@ -4,7 +4,7 @@ export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Aditi De.
-      <a href="https://twitter.com/aditide_">Twitter</a>
+      <a href="https://twitter.com/byaditide">Twitter</a>
       <style jsx>{`
         a {
           float: right;
